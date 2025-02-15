@@ -34,4 +34,4 @@
 
 ## [Gppp23333/EncAndDec](https://github.com/Gppp23333/EncAndDec)
 
-### 菜6所做，师傅们越多就可以产生更多的思路，望谅解orz。
+### 菜6所做，欢迎师傅们指导和二开，就可以产生更多的思路，望谅解orz。
